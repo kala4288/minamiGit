@@ -1,0 +1,2 @@
+# minamiGit
+maself Git
